@@ -9,7 +9,7 @@
 
 <h3>📫 How to reach me</h3>
     <ul>
-        <li>📧 <strong>Email:</strong> <a href="mailto:@gmail.com">pavr@gmail.com</a></li>
+        <li>📧 <strong>Email:</strong> <a href="mailto:pavr@gmail.com">pavr@gmail.com</a></li>
         <li>🌐 <strong>LinkIn:</strong> <a href="#">paula velasquez</a></li>
     </ul>
 
