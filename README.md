@@ -12,8 +12,6 @@
         <li>🌐 <strong>LinkIn:</strong> <a href="#">paula velasquez</a></li>
     </ul>
 
-<h3>😂 Fun Fact</h3>
-    <p>"I talk to my code like it's a real person... and sometimes it listens!" 😆💻p>
 
 <h3>🛠 Skills</h3>
     <ul>
